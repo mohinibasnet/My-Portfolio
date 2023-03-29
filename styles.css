@@ -1,0 +1,30 @@
+.first
+{
+    text-align:center;
+    padding-top:100px;
+    color:red;
+}
+  .btn
+  {
+    border-radius:200px;
+    margin-bottom:20px;
+  }
+ .second
+ {
+    padding-top:10px;
+    text-align:center;
+     
+ }
+ h1{
+    font-family: 'Alkatra', cursive;
+    
+ }
+ .img{
+    width:80%;
+ }
+ 
+ .desc
+ {
+    padding:10px 30px;
+    text-align:center;
+ }
